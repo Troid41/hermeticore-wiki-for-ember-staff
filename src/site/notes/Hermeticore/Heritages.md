@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hermeticore/heritages/"}
+{"dg-publish":true,"permalink":"/hermeticore/heritages/","noteIcon":""}
 ---
 
 At the start of Hermeticore's lifespan, [[Hermeticore/Pathos\|Pathos]] made humans all equal, but due to the [[Hermeticore/Magic/Planet core\|Planet core]] being pure mana, volatile and ever changing, it corrupted any living beings exposed to it for too long.
@@ -16,6 +16,6 @@ Some heritages have even been created through curses from outer gods, just to gi
 - [[Hermeticore/Species/Sirens\|Sirens]]
 - [[Hermeticore/Species/Arachnae\|Arachnae]] 
 - [[Hermeticore/Species/Dwarves\|Dwarves]]
-- [[Hermeticore/Species/Orcs\|Orcs]] x
+- [[Hermeticore/Species/Orcs\|Orcs]]
 - [[Hermeticore/Species/Humans\|Humans]]
 - Etc...
